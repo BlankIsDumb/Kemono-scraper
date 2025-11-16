@@ -18,7 +18,7 @@ only needed if you want to download favorite creators or posts
 
 | Domain        | Include subdomains | Path | Secure | Expiry     | Name        | Value   |
 |---------------|--------------------|------|--------|------------|-------------|---------|
-| .kemono.su    | FALSE              | /    | TRUE   | 1706755572 | kemono_auth | <value> |
+| .kemono.cr    | FALSE              | /    | TRUE   | 1706755572 | kemono_auth | <value> |
 
 you can get cookies easily by using Chrome extension [Get cookies.txt LOCALLY](https://chrome.google.com/webstore/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc)
 
